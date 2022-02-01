@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Remon Singh</h1>
 <h3 align="center">An aspiring full-stack developer. Self-motivated and enthusiastic about making user-friendly products. Looking forward to gaining development experience and hands-on technical expertise.</h3>
-//I'm a passionate learner of Full Stack Developement from Masai School.
+<!--I'm a passionate learner of Full Stack Developement from Masai School.-->
 
 ## 🙋‍♂️ About Me
 
