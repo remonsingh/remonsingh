@@ -5,10 +5,16 @@
 <!--<h3 align="center">An aspiring full-stack developer. Self-motivated and enthusiastic about making user-friendly products. Looking forward to gaining development experience and hands-on technical expertise.</h3>-->
 <!--<a href="#"><img width="50%" height="auto" src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966"/></a>-->
 
+## An aspiring full-stack developer
+
 <div style="display: flex; align-items: center;">
-  <h3 style="margin-right: 20px;">An aspiring full-stack developer. Self-motivated and enthusiastic about making user-friendly products. Looking forward to gaining development experience and hands-on technical expertise.</h3>
-  <a href="#"><img width="50%" height="auto" src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966"/></a>
+  <h3 style="margin-right: 20px;">Self-motivated and enthusiastic about making user-friendly products. Looking forward to gaining development experience and hands-on technical expertise.</h3>
+  <a href="#"><img width="250" height="250" src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966"/></a>
 </div>
+
+*** 
+
+
 
 
 <!--I'm a passionate learner of Full Stack Developement from Masai School.-->
